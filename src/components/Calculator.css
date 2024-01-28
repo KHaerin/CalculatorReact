@@ -1,0 +1,23 @@
+.form-control{
+  /* text-align: right;
+  direction: rtl;  */
+}
+
+#inputFieldContainer{
+  max-width: 468px;
+  min-width: 468px;
+ width: 100%;
+  height: 5vh;
+  border: 2px solid rgba(190, 190, 190, 0.637);
+}
+
+.btn{
+  font-size: 25px;
+  border: 2px solid rgba(196, 192, 192, 0.637) !important;
+  width: 118px;
+  height: 80px;
+}
+
+#zeroBtn{
+  width: 235px;
+}
